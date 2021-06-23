@@ -1,0 +1,11 @@
+.banner{
+    background: rgba(80, 80, 80, 0.377); 
+    width: auto; 
+    height: 40px; 
+    position: sticky; 
+    top: 0px;
+}
+
+body{
+    background-color: rgb(134, 134, 134);
+}
